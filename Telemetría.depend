@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1698953118 source:c:\users\aldan\onedrive\documentos\unlam\topicos\telemetría\main.c
+	"main.h"
+
+1698361918 c:\users\aldan\onedrive\documentos\unlam\topicos\telemetría\main.h
+	<stdio.h>
+	<stdlib.h>
+	"procesadoDeDatos.h"
+
+1698953045 source:c:\users\aldan\onedrive\documentos\unlam\topicos\telemetría\procesadodedatos.c
+	"procesadoDeDatos.h"
+
+1698952448 c:\users\aldan\onedrive\documentos\unlam\topicos\telemetría\procesadodedatos.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
+1698959267 source:c:\users\aldan\onedrive\documentos\unlam\topicos\telemetria\main.c
+	"main.h"
+
+1698361918 c:\users\aldan\onedrive\documentos\unlam\topicos\telemetria\main.h
+	<stdio.h>
+	<stdlib.h>
+	"procesadoDeDatos.h"
+
+1698959148 c:\users\aldan\onedrive\documentos\unlam\topicos\telemetria\procesadodedatos.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
+1698960482 source:c:\users\aldan\onedrive\documentos\unlam\topicos\telemetria\procesadodedatos.c
+	"procesadoDeDatos.h"
+
+1699052837 source:c:\users\vicut\documents\unlam\programacion\topicos de progra\topicos de programacion (recursada)\proyecto\main.c
+	"main.h"
+
+1698347518 c:\users\vicut\documents\unlam\programacion\topicos de progra\topicos de programacion (recursada)\proyecto\main.h
+	<stdio.h>
+	<stdlib.h>
+	"procesadoDeDatos.h"
+
+1699053281 c:\users\vicut\documents\unlam\programacion\topicos de progra\topicos de programacion (recursada)\proyecto\procesadodedatos.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+
+1699053925 source:c:\users\vicut\documents\unlam\programacion\topicos de progra\topicos de programacion (recursada)\proyecto\procesadodedatos.c
+	"procesadoDeDatos.h"
+
